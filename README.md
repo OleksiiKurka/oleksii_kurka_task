@@ -30,4 +30,4 @@ Open [https://docs.google.com/document/d/1t-lxtm9CpvjxY_XSVFFVhqP_iPlBmlRK-vkDqQ
 
 ## Visit web-site 
 
-[https://oleksiikurka.github.io/React_Deploy](https://oleksiikurka.github.io/React_Deploy) - web page where the project was deployed
+[https://oleksiikurka.github.io/React_Deploy/](https://oleksiikurka.github.io/React_Deploy/) - web page where the project was deployed
