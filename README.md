@@ -3,7 +3,7 @@
 
 In the project directory, you can run:
 
-### `npm init`
+### `npm i`
 
 and then
 
@@ -26,8 +26,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## INFO
 
-Open [https://docs.google.com/document/d/1t-lxtm9CpvjxY_XSVFFVhqP_iPlBmlRK-vkDqQ4sBsI/edit?usp=sharing](Info) to see a short description of the wab-page
+Open [https://docs.google.com/document/d/1t-lxtm9CpvjxY_XSVFFVhqP_iPlBmlRK-vkDqQ4sBsI/edit?usp=sharing](https://docs.google.com/document/d/1t-lxtm9CpvjxY_XSVFFVhqP_iPlBmlRK-vkDqQ4sBsI/edit?usp=sharing) to see a short description of the wab-page
 
 ## Visit web-site 
 
-[](open) 
+[https://oleksiikurka.github.io/React_Deploy](https://oleksiikurka.github.io/React_Deploy) - web page where the project was deployed
