@@ -74,6 +74,7 @@ export const DataProvider = ({ children }) => {
                 setLoading("finish");
             }).catch(err => {
                 setLoading("error");
+                setListOfImg([]);
             })
     }
 
