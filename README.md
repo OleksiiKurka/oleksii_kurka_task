@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 8dc1b66788d39d6f42e128933b4cd4993c6a981d
 ## Available Scripts
 
 In the project directory, you can run:
@@ -25,12 +22,12 @@ You will also see any lint errors in the console.
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<<<<<<< HEAD
 
 
 ## INFO
 
-=======
->>>>>>> 8dc1b66788d39d6f42e128933b4cd4993c6a981d
+Open [https://docs.google.com/document/d/1t-lxtm9CpvjxY_XSVFFVhqP_iPlBmlRK-vkDqQ4sBsI/edit?usp=sharing](Info) to see a short description of the wab-page
 
+## Visit web-site 
 
+[](open) 
